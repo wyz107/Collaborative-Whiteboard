@@ -1,0 +1,28 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "This is a collaborative whiteboard application built using Node.js, Express, WebSocket, and HTML5 Canvas. It allows multiple users to draw and erase on a shared canvas in real-time.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyz107/collaborative-whiteboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyz107/collaborative-whiteboard/issues"
+  },
+  "homepage": "https://github.com/wyz107/collaborative-whiteboard#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

@@ -11,5 +11,5 @@ This is a collaborative whiteboard application built using Node.js, Express, Web
 - Install the latest NodeJs (version >= 12)
 - Clone the app
 - Run `npm install` inside the folder
-- Start the server `node index.js` or `nodemon index.js`
+- Start the server `node index.js` 
 - Open your browser and navigate to http://localhost:8080 to access the whiteboard.
