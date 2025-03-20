@@ -21,3 +21,6 @@ This is a collaborative whiteboard application built using Node.js, Express, Web
 - Run `npm install` inside the folder
 - Start the server `node index.js` 
 - Open your browser and navigate to http://localhost:8080 to access the whiteboard.
+
+## Example
+![微信图片_20250320232527](https://github.com/user-attachments/assets/af03939c-80c8-4fc8-81a4-8f2283049800)
