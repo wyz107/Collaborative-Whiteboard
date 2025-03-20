@@ -1,4 +1,4 @@
-## collaborative-whiteboard
+## Collaborative Whiteboard
 This is a collaborative whiteboard application built using Node.js, Express, WebSocket, and HTML5 Canvas. It allows multiple users to draw and erase on a shared canvas in real-time.
 
 ## Usage
