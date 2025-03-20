@@ -1,11 +1,18 @@
 ## Collaborative Whiteboard
 This is a collaborative whiteboard application built using Node.js, Express, WebSocket, and HTML5 Canvas. It allows multiple users to draw and erase on a shared canvas in real-time.
-# 目录结构描述
+## Structure
     ├── ReadMe.md           // 帮助文档
     │   ├── index.html
     ├── AutoCreateDDS.py    // 合成DDS的 python脚本文件
     
     ├── DDScore             
+    ├── public/
+    │   ├── index.html
+    │   ├── style.css
+    │   ├── script.js
+    ├── index.js
+    ├── README.md
+    ├── package.json
 
 ## Usage
 - *Drawing*: Click and drag on the canvas to draw.
